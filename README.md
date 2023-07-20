@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [🎯 Decode a Morse Code Message](#-decode-a-morse-code-message)
+- [🎯 Custome Enumerable](#-custome-enumerable)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -11,6 +11,7 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [👋 Show your support ](#-show-your-support-)
   - [🔭Acknowledgments ](#acknowledgments-)
@@ -89,6 +90,17 @@ No tests here...
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/foga-amos-2b5371103/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [#map Method Support] **[new_feature_1]**
+- [#reduce Method Support] **[new_feature_2]**
+- [rting Functionality] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -111,7 +123,8 @@ Give a ⭐️ if you like this project!
 
 ## 🔭Acknowledgments <a name="acknowledgements"></a>
 
-- [Microverse](https://www.microverse.org/).
+  I would like to thank Microverse for giving me a wonderful opportunity to work on this project
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>

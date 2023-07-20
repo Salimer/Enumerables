@@ -1,0 +1,3 @@
+class myList
+    @list 
+end

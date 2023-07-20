@@ -95,9 +95,9 @@ No tests here...
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [#map Method Support] **[new_feature_1]**
-- [#reduce Method Support] **[new_feature_2]**
-- [rting Functionality] **[new_feature_3]**
+- **#map Method Support**
+- **#reduce Method Support**
+- **#Sorting Functionality**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -18,9 +18,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🎯 Decode a Morse Code Message<a name="about-project"></a>
+# 🎯 Custome Enumerable<a name="about-project"></a>
 
-> In this project, we built our first project in Ruby programming language where to decode a morse message into English words
+> In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -31,9 +31,9 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Decode morse Char**
-- **Decode morse word**
-- **Decode morse message**
+- **Implement all?**
+- **Implemented any**
+- **Implemented filter**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -55,21 +55,15 @@ you have to those tools in your local machine.
 Clone the project.
 
 ```bash
-  git clone https://github.com/Salimer/Decode-a-Morse-code-message.git
+  git clone git@github.com:Salimer/Enumerables.git
 ```
 
 Go to the project directory.
 
 ```bash
-  cd Decode-a-Morse-code-message
+  cd Enumerables
 ```
 
-In the project directory, inside the Challenge.rb file. Call the `decode_message` method with your morse message as follows:
-
-```bash
-  message = decode_message(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
-puts message
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ### Run tests
@@ -101,7 +95,7 @@ No tests here...
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kifle23/vet-clinic-database/issues).
+Feel free to check the [issues page](https://github.com/Salimer/Enumerables/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
